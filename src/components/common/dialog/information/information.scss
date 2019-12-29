@@ -1,0 +1,61 @@
+.btn-custom-info {
+    color: gray;
+    border: gray;
+    font-size: 12px;
+    width: 150px;
+    font-weight: bold;
+    padding: 15px 0px;
+}
+
+.btn-custom:hover {
+    color: gray;
+}
+
+.upload_button_group {
+    padding: 15px 0px 30px 15px;
+}
+
+.link-info a {
+    color: #d3d3d3;
+    font-size: 12px;
+}
+
+.link-info {
+    padding: 11px;
+}
+
+.info_img {
+    width: 300px;
+    height: 250px;
+    border-radius: 5px 5px;
+}
+
+.info_title_info {
+    padding: 0px 0px 10px 13px;
+}
+
+.fa-pencil {
+    color: green;
+}
+
+.container {
+    font-family: "Maven Pro", sans-serif;
+    font-size: 14px;
+    font-variant: tabular-nums;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: gray;
+}
+
+.form-inline>* {
+    margin: 0px 2px;
+}
+
+.address {
+    width: 285px !important;
+}
+
+label {
+    margin-bottom: 7px;
+}

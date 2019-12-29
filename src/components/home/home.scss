@@ -1,0 +1,33 @@
+.home {
+    padding: 100px 16px;
+    font-weight: bold;
+    font-family: "Maven Pro", sans-serif;
+    font-size: 14px;
+    font-variant: tabular-nums;
+    &_title {
+        font-size: 26px;
+        line-height: 40px;
+        color: #3D9457;
+    }
+    &_img {
+        width: 300px;
+        height: 250px;
+        border-radius: 5px 5px;
+    }
+    &_title_info {
+        padding: 0px 0px 10px 13px;
+    }
+    &_text_content {
+        word-break: normal;
+        padding: 0px 0px 3px 10px;
+    }
+    &_text_title {
+        color: gray;
+    }
+    .btn-custom {
+        color: gray;
+        border: gray;
+        font-weight: bolder;
+        width: 100%;
+    }
+}
